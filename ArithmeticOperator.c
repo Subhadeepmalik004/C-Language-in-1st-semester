@@ -5,6 +5,6 @@ int main(){
     printf("%d\n",x+y);
     printf("%d\n",x-y);
     printf("%d\n",x*y);
-    printf("%d\n",x/y);
+    printf("%d\n",x/y);// int/int -->> int
     return 0;
 }
